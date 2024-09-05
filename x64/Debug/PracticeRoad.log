@@ -1,0 +1,3 @@
+﻿  Stack.cpp
+C:\Users\jorge\OneDrive\Documentos\UNA\Ciclo ll - 2024\Estructuras de datos - Juan\PracticeRoad\PracticeRoad\Stack.cpp(216,1): warning C4715: 'Stack::visited': no todas las rutas de acceso de control devuelven un valor
+  PracticeRoad.vcxproj -> C:\Users\jorge\OneDrive\Documentos\UNA\Ciclo ll - 2024\Estructuras de datos - Juan\PracticeRoad\x64\Debug\PracticeRoad.exe
